@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/jordan/.xmonad'
+let g:netrw_dirhist_2='/home/jordan/source/qsrun'
+let g:netrw_dirhist_3='/home/jordan/scripts/bar'
+let g:netrw_dirhist_4='/home/instantepiphany/.xmonad'
+let g:netrw_dirhist_5='/home/instantepiphany/source/X11-1.6.1.2/Graphics/X11'
